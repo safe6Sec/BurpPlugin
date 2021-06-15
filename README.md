@@ -22,10 +22,7 @@ https://github.com/ewilded/shelling
 
 通过设置Content-Type, 我们可以快速找到请求中的参数哪个被返回到回显的Body。
 
- ### DOMXSSHilight
-下载地址:https://github.com/sechacking/DOMXSSHilight
 
-这个主要是定位一些Dom的sink, 可以辅助手工去dig dom xss。
 
  ###  BurpJSLinkFinder
  下载地址：https://github.com/InitRoot/BurpJSLinkFinder
