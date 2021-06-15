@@ -16,6 +16,11 @@ https://github.com/ewilded/shelling
 
 跑命令执行代码执行
 
+### ActiveScan++
+商店下载
+
+### J2EEScan
+商店下载
 
  ### Reflector
 下载地址:https://github.com/elkokc/reflector
@@ -38,33 +43,33 @@ https://github.com/ewilded/shelling
 
 支持扫描和自动发现SSRF漏洞。
  ### burp-sensive-param-extractor
- 下载地址：https://github.com/theLSA/burp-sensitive-param-extractor
+ 下载地址：https://github.com/theLSA/burp-sensitive-param-extractor  
  检测敏感参数
 
 
  ### Burp-unauth-checker
- 下载地址:https://github.com/theLSA/burp-unauth-checker
+ 下载地址:https://github.com/theLSA/burp-unauth-checker  
  检测未授权
 
  ###  FastjsonScan
-下载地址:https://github.com/zilong3033/fastjsonScan
+下载地址:https://github.com/zilong3033/fastjsonScan  
 
 不多说
 
 
  ###  BurpShiroPassiveScan
-下载地址:https://github.com/pmiaowu/BurpShiroPassiveScan
+下载地址:https://github.com/pmiaowu/BurpShiroPassiveScan  
 
 自动检测Shiro+发现密钥，不依赖dnslog来检查。
 
 
  ###  HaE
-下载地址:https://github.com/gh0stkey/HaE
+下载地址:https://github.com/gh0stkey/HaE   
 
 用于高亮特征和定位敏感信息
 
 ### Unexpected information
-下载地址：https://github.com/ScriptKid-Beta/Unexpected_information
+下载地址：https://github.com/ScriptKid-Beta/Unexpected_information  
 
 用于高亮特征和定位敏感信息和HaE一样，我用的这个，HaE也不错
 
@@ -76,7 +81,7 @@ https://github.com/ewilded/shelling
 商店有，美化json。新版本用来替代JSONBeautifier。但是我还是喜欢用JSONBeautifier。
 
 ### 403Bypasser
-下载地址：https://github.com/sting8k/BurpSuite_403Bypasser
+下载地址：https://github.com/sting8k/BurpSuite_403Bypasser  
 用各种姿势来绕过403访问
 
 ### LFI+scanner+checks
@@ -84,7 +89,7 @@ https://github.com/ewilded/shelling
 扫描LFI的，找不到地址了
 
 ### sqlmap4burp++
-下载地址：https://github.com/c0ny1/sqlmap4burp-plus-plus
+下载地址：https://github.com/c0ny1/sqlmap4burp-plus-plus  
 联动sqlmap
 
 
