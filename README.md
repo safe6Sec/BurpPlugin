@@ -79,6 +79,7 @@ https://github.com/ewilded/shelling
 商店有，美化json。新版本用来替代JSONBeautifier。但是我还是喜欢用JSONBeautifier。
 
 ### 403Bypasser
+下载地址：https://github.com/sting8k/BurpSuite_403Bypasser
 用各种姿势来绕过403访问
 
 ### LFI+scanner+checks
